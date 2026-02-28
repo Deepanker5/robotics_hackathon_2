@@ -1,0 +1,6 @@
+# Manual Control Subsystem for LeKiwi + SO-101 Robot
+# Minimal dependencies - pure Python implementation
+
+# No external dependencies required for core functionality
+# The system is designed to work out of the box on any Python 3.9+ installation
+touch-sdk
